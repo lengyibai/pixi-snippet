@@ -3,7 +3,6 @@ import { nav } from "./bars/nav";
 import { sidebar } from "./bars/sidebar";
 
 const config = defineConfig({
-  base: "/lib/",
   title: "Lib代码片段",
   lastUpdated: true,
   ignoreDeadLinks: true,

@@ -16,7 +16,7 @@ function Components(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: "静态组件",
-      items: [{ text: "精灵表动画", link: "AnimateFrames" }],
+      items: [{ text: "精灵表动画", link: "AnimateFrames/" }],
     },
   ];
 }
